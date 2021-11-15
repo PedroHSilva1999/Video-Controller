@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(https://conteudo.imguol.com.br/c/entretenimento/78/2018/02/28/morango-1519823853148_v2_450x337.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#video {
+    width: 1200px;
+    height: 300px;
+}
+
+
+#botoes {
+    width: 800px;
+    margin: 0 auto;
+    position: relative;
+    top: 420px;
+    left: 140px;
+}
+#iniciar{
+    width: 200px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: rgb(35, 153, 153);
+    color: white;
+    font-size: 3em;
+}
+ 
+#pausa {
+    width: 200px;
+    height: 100px;
+    border-radius: 50px;
+   
+    background-color: rgb(224, 96, 96);
+    color: white;
+    font-size: 3em;
+}           
